@@ -3,13 +3,11 @@ package com.prosoft;
 /**
  * Паттерн Стратегия (Strategy Pattern) - динамическое управление поведением объекта
  * путем изменения алгоритма UserNameAndPasswordAuthentication() / PhoneNumberAuthentication()
- * Таким образом мы не меняем код PaymentService, а меняем просто стратегию (алгоритм)
- *
+ * Таким образом мы не меняем код PaymentService, а меняем просто стратегию (алгоритм - либо авторизацию
+ * по логину и паролю, либо авторизацию по номеру телефона)
  */
-public class App 
-{
-    public static void main( String[] args )
-    {
+public class App {
+    public static void main(String[] args) {
 
         String authentication = "UserNameAndPassword";
 
