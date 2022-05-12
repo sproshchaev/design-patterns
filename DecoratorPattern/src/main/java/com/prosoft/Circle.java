@@ -7,6 +7,6 @@ public class Circle implements Figure {
 
     @Override
     public void print() {
-        System.out.println("Circle is here");
+        System.out.print("Circle is here");
     }
 }

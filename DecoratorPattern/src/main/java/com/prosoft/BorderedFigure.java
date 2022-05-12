@@ -14,6 +14,7 @@ public class BorderedFigure implements Figure {
 
     @Override
     public void print() {
-
+        figure.print();
+        System.out.print(" and bordered");
     }
 }
