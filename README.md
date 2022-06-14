@@ -2,6 +2,10 @@
 
 # DesignPatterns
 -------
+1. Шаблон Strategy Pattern (паттерн Стратегия)
+2. Шаблон Observer Pattern (паттерн Наблюдатель)
+3. Шаблон Decorator Pattern
+4. Шаблон Factory Method Pattern
 
 ### Статьи по теме
 1. Погружение в паттерны проектирования https://bit.ly/3th30wh
