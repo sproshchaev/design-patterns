@@ -7,7 +7,8 @@
 3. Шаблон Decorator Pattern
 4. Шаблон Factory Method Pattern
 5. Шаблон Abstract Factory Pattern
-6. Шаблон Sinleton Pattern
+6. Шаблон Singleton Pattern
+7. Шаблон Null Object Pattern
 
 ### Статьи по теме
 1. Погружение в паттерны проектирования https://bit.ly/3th30wh
